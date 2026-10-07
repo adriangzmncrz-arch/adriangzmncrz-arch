@@ -1,6 +1,6 @@
 <!-- ═══════════════ BANNER ANIMADO ═══════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,55:24283b,100:3d59a1&height=220&section=header&text=Cipher&fontSize=78&fontColor=c0caf5&fontAlignY=36&animation=fadeIn&desc=Carlos%20Adri%C3%A1n%20Guzm%C3%A1n&descSize=20&descAlignY=58&descColor=a9b1d6" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,55:24283b,100:3d59a1&height=220&section=header&text=Adri%C3%A1n%20Guzm%C3%A1n&fontSize=64&fontColor=c0caf5&fontAlignY=36&animation=fadeIn&desc=Ciberseguridad%20%C2%B7%20Seguridad%20de%20la%20Informaci%C3%B3n&descSize=20&descAlignY=58&descColor=a9b1d6" width="100%" />
 </p>
 
 <!-- ═══════════════ TEXTO TIPO TERMINAL ═══════════════ -->
@@ -20,7 +20,7 @@
 ### `$ cat about.yml`
 
 ```yaml
-nombre:   Carlos Adrián Guzmán   # aka Cipher
+nombre:   Adrián Guzmán
 enfoque:
   - Sistemas de Gestión de Seguridad de la Información (SGSI)
   - Gestión de riesgos y continuidad del negocio
