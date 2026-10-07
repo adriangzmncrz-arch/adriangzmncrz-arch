@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Adrián Guzmán — Ciberseguridad · Seguridad de la Información">
+  <defs>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFB224" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFB224" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#FFB224" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#ffffff" fill-opacity="0.07"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="300" rx="18"/></clipPath>
+    <style>
+      .name  { font: 700 68px -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #ffffff; letter-spacing: -1px;
+               animation: rise 1.1s cubic-bezier(.2,.7,.2,1) both; }
+      .sub   { font: 500 22px "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace; fill: #a1a1aa;
+               animation: rise 1.1s .35s cubic-bezier(.2,.7,.2,1) both; }
+      .accent{ fill: #FFB224; }
+      .cursor{ fill: #FFB224; animation: blink 1.1s steps(1) infinite; }
+      .bar   { transform-origin: 600px 0; animation: grow 1.4s .5s cubic-bezier(.2,.7,.2,1) both; }
+      .scan  { animation: sweep 7s linear infinite; }
+      @keyframes rise  { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+      @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
+      @keyframes grow  { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+      @keyframes sweep { from { transform: translateX(-400px); } to { transform: translateX(1300px); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="#000000"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+    <rect class="scan" x="0" y="0" width="300" height="300" fill="url(#scan)"/>
+
+    <text class="name" x="600" y="148" text-anchor="middle">Adrián Guzmán</text>
+    <rect class="bar accent" x="530" y="172" width="140" height="4" rx="2"/>
+    <text class="sub" x="277" y="222"><tspan class="accent">~$ </tspan>ciberseguridad · seguridad de la información<tspan class="cursor"> _</tspan></text>
+
+    <rect x="0.5" y="0.5" width="1199" height="299" rx="18" fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
+  </g>
+</svg>
