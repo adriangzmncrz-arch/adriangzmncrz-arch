@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Adrián Guzmán — Ciberseguridad · Seguridad de la Información" width="100%" />
+  <img src="./assets/banner.svg" alt="Adrián Guzmán — GRC & Cybersecurity Consultant · Lead Auditor · ISO 27001 · ISO 9001 · ISO 22301" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1600&color=FFB224&center=true&vCenter=true&width=620&lines=Gobierno%2C+Riesgo+y+Cumplimiento+(GRC);Seguridad+de+la+Informaci%C3%B3n+%C2%B7+ISO%2FIEC+27001;Seguridad+que+se+puede+medir+y+demostrar." alt="Gobierno, Riesgo y Cumplimiento · Seguridad de la Información · ISO/IEC 27001" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1600&color=FFB224&center=true&vCenter=true&width=620&lines=Seguridad+de+la+informaci%C3%B3n+%C2%B7+ISO%2FIEC+27001;Gesti%C3%B3n+de+calidad+%C2%B7+ISO+9001;Continuidad+del+negocio+%C2%B7+ISO+22301;Gobierno+de+TI+y+seguridad+de+redes" alt="Seguridad de la información · Gestión de calidad · Continuidad del negocio · Gobierno de TI" />
 </p>
 
 <br/>
 
 ### Sobre mí
 
-Ayudo a las organizaciones a proteger su información de forma ordenada y medible. Diseño e implemento sistemas de gestión de seguridad, evalúo riesgos y preparo a los equipos para responder cuando algo sale mal. También me dedico a la capacitación, porque la seguridad solo funciona cuando las personas la entienden.
+Soy Ingeniero en Mecatrónica especializado en ciberseguridad y sistemas de gestión. Ayudo a las organizaciones a proteger su información, cumplir estándares internacionales y fortalecer su postura ante riesgos.
 
-Creo en la seguridad que se integra a la operación diaria y se puede demostrar con evidencia, no solo en papel.
+Implemento y mantengo sistemas de gestión bajo **ISO/IEC 27001:2022**, **ISO 9001:2015** e **ISO 22301:2019**, y cuento con experiencia como **auditor líder**. Mi perfil combina el rigor técnico de la ingeniería con una visión estratégica de la seguridad de la información, el gobierno de TI y la continuidad del negocio.
 
 <br/>
 
 ### Especialidades
 
 <p align="center">
-  <img src="./assets/especialidades.svg" alt="Gestión del SGSI · Gestión de riesgos · Respuesta a incidentes · Continuidad del negocio" width="100%" />
+  <img src="./assets/especialidades.svg" alt="Seguridad de la información · Gestión de calidad · Continuidad del negocio · Gestión de riesgos · Auditoría de sistemas de gestión · Gobierno de TI y redes" width="100%" />
 </p>
 
 <br/>
@@ -30,6 +30,8 @@ Creo en la seguridad que se integra a la operación diaria y se puede demostrar 
   <a href="https://www.linkedin.com/in/adriancruz-grc/">
     <img src="./assets/linkedin.svg" alt="Conectemos en LinkedIn" width="300" />
   </a>
+  <br/>
+  <sub>Zapopan, Jalisco · México</sub>
 </p>
 
 <!--
